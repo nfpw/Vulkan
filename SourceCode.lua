@@ -697,7 +697,7 @@ fTitle.setPosition(10,5)
 fTitle.Font.Color = '0xFFFFFF'
 fTitle.Font.Size = 9
 fTitle.Font.Name = 'Verdana'
-fTitle.Caption = 'Vulkan'
+fTitle.Caption = 'Cracked by nfpw'
 fTitle.setPosition(10, 4)
 
 fVer = createLabel(f)
@@ -715,7 +715,7 @@ fMode.Caption = "   Inject\10method:"
 fMode.setPosition(470-125-10-50-10-55, 2)
 
 img_BtnInject = createButton(f)
-img_BtnInject.Caption = "Inject"
+img_BtnInject.Caption = "Sex"
 img_BtnInject.setSize(125,20)
 img_BtnInject.setPosition(470-125-10,5)
 img_BtnInject.onClick = inject
